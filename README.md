@@ -1,7 +1,7 @@
 ### Ola! Sou Cristian Fabiano Eisenhut
 
 - 🔭 Sou graduado em Análise de Sistemas, hoje trabalho com teste de software 
-- 🌱 Estudando atualmente HTML, CSS, JAVA, Javascript, Ruby e testes automatizados 
+- 🌱 Estudando atualmente HTML, CSS, JAVA, Javascript, Ruby e Testes Funcionais e Automatizados 
  
 <div>
   <a href="https://github.com/cristiancfe">
