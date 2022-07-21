@@ -21,7 +21,7 @@
   <img align="center" alt="Postman" height="30" width="60" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> 
   <img align="center" alt="GitHub" height="30" width="60" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img align="center" alt="GitLab" height="30" width="60" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"> 
-  <img align="center" alt="Python" height="30" width="60" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img align="center" alt="Cypress" height="30" width="60" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
  
     
 </div>
