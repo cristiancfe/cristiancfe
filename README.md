@@ -1,7 +1,7 @@
 ### Ola! Sou Cristian Fabiano Eisenhut
 
 - 🔭 Sou graduado em Análise e desenvolvimento de Sistemas, trabalho com teste de software desde 2020 - Analista de Testes
-- 🌱 Estudando atualmente JAVA, Cypress e testes Automatizados. 
+- 🌱 Estudando atualmente JAVA, Cypress e testes Automatizados WEB e Mobile, possuo conhecimento em Java, Ruby e Javascript, testes funcionais e automatizados de API. 
  
 <div>
   <a href="https://github.com/cristiancfe">
