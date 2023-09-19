@@ -9,7 +9,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancfe&layout=compact&langs_count=7&theme=dracula"/>
  </div>  
  <div style="display: inline_block"><br>]
- ![octocat-1695166846651](https://github.com/cristiancfe/cristiancfe/assets/32318124/3ac67c74-58aa-4637-878b-24b626ab5da9)
+ [octocat-1695166846651](https://github.com/cristiancfe/cristiancfe/assets/32318124/3ac67c74-58aa-4637-878b-24b626ab5da9)
 
   
   <img align="center" alt="HTML" height="30" width="60" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
