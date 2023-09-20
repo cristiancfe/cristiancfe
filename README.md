@@ -8,7 +8,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cristiancfe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancfe&layout=compact&langs_count=7&theme=dracula"/>
  </div>  
- ![octocat](https://github.com/cristiancfe/octocat/assets/32318124/d8460930-9243-4a10-97ec-cc866654f9e3)
+ 
 
  <div style="display: inline_block"><br>
   
