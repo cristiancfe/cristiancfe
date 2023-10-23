@@ -24,6 +24,7 @@
   <img align="center" alt="JIRA" height="30" width="60" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
         
 </div>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg" style="max-width: 100%;">
   
   
   
