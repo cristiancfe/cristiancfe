@@ -22,7 +22,7 @@
   <img align="center" alt="GitLab" height="30" width="60" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"> 
   <img align="center" alt="Cypress" height="30" width="60" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
   <img align="center" alt="JIRA" height="30" width="60" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-  <img align="right" alt="vtuber" height="150" width="160" src="https://www.canva.com/design/DAFyHKt9dtg/IEB4hV6DBepjsiyWCXMaOw/view?utm_content=DAFyHKt9dtg&utm_campaign=designshare&utm_medium=link&utm_source=editor">
+  <img align="right" alt="vtuber" height="150" width="160" src="https://drive.google.com/file/d/1tC0FMpIxGybDmFWJi7UHSgQP08w7KZkf/view?usp=share_link">
     
 </div>
   
