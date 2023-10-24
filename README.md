@@ -2,7 +2,9 @@
 
 - 🔭 Sou graduado em Análise e desenvolvimento de Sistemas, trabalho com teste de software desde 2020 - Analista de Testes
 - 🌱 Estudando atualmente JAVA, Cypress e testes Automatizados WEB e Mobile, possuo conhecimento em Java, Ruby e Javascript, testes funcionais e automatizados de API. 
- 
+
+ Contato <a href="https://www.linkedin.com/in/cristianeisenhut/" target="_blank">
+  <img align="center" alt="Linkedin" height="30" width="60" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <div>
   <a href="https://github.com/cristiancfe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristiancfe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -22,8 +24,7 @@
   <img align="center" alt="GitLab" height="30" width="60" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"> 
   <img align="center" alt="Cypress" height="30" width="60" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
   <img align="center" alt="JIRA" height="30" width="60" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-  <a href="https://www.linkedin.com/in/cristianeisenhut/" target="_blank">
-  <img align="center" alt="Linkedin" height="30" width="60" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  
   
         
 </div>
