@@ -1,9 +1,8 @@
 name: Generate Datas
 'on':
   schedule:
-    - description: test dispatch vs target
-      schedule: every 1 mins
-      workflow_dispatch: null
+     schedule: every 1 mins
+      
 jobs:
   build:
     name: Jobs to update datas
