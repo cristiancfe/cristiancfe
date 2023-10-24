@@ -1,7 +1,8 @@
 name: Generate Datas
-'on':
+on:
   schedule:
-     schedule: every 1 mins
+      # every 6 hours
+    - cron: "0 */6 * * *"
       
 jobs:
   build:
