@@ -27,7 +27,9 @@
   
         
 </div>
+<div>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg" style="max-width: 100%;">
+</div>
   
   
   
