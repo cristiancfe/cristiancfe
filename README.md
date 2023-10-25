@@ -26,7 +26,7 @@
   <img align="center" alt="Cypress" height="30" width="60" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
   <img align="center" alt="JIRA" height="30" width="60" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">  
   <img align="center" alt="Android" height="30" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />  
-  <img align="center" alt="Selenium" height="30" width="60" src=  "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+  <img align="center" alt="Selenium" height="30" width="60" src="https://cdn.jsdelivr.net/npm/selenium-webdriver@4.14.0/chrome.min.js" />
           
         
 </div>
