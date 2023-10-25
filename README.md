@@ -1,7 +1,7 @@
 ### Ola! Sou Cristian Fabiano Eisenhut
 
 - 🔭 Sou graduado em Análise e Desenvolvimento de Sistemas, trabalho como Analista de Testes de software desde 2020 
-- 🌱 Atualmente realizo testes de softwares, possuo conhecimentos em JAVA, Javascript e Ruby, Testes de API com Postman, Testes Automatizados WEB/API com Cypress e Testes Mobile Android/IOS com Soucelabs, Cloud Smartbear BitBar, BrowserStack.
+- 🌱 Possuo conhecimentos em JAVA, Javascript e Ruby, Testes de API com Postman, Testes Automatizados WEB/API com Cypress e Testes Mobile Android/IOS com Soucelabs, Cloud Smartbear BitBar, BrowserStack.
 - Procuro sempre me qualificar na área de testes de softwares #aprendizadoconstante #evolucaoconstante.
 
  Contato <a href="https://www.linkedin.com/in/cristianeisenhut/" target="_blank">
