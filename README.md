@@ -31,10 +31,10 @@
   src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
    <img align="center" alt="Azure" height="30" width="60" 
   src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-   <img align="center" alt="Android Studio" height="30" width="60" 
+<!--    <img align="center" alt="Android Studio" height="30" width="60" 
   src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
    <img align="center" alt="ChatGPT" height="30" width="60" 
-   src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">  
+   src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">   -->
              
 </div>
 <div>
