@@ -8,12 +8,9 @@
   <img align="center" alt="Linkedin" height="30" width="60" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <div>
   <a href="https://github.com/cristiancfe">
-<!--    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristiancfe)](https://github.com/anuraghazra/github-readme-stats) -->
+
  <img  src="https://github-readme-stats.vercel.app/api?username=cristiancfe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancfe&layout=compact&langs_count=7&theme=dracula"/></a>
-<!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristiancfe&hide=contribs,prs) -->
- </div>  
- 
 
  <div style="display: inline_block"><br>
   
@@ -31,7 +28,7 @@
         
 </div>
 <div>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg" style="max-width: 100%;">
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" style="max-width: 100%;">
 </div>
   
   
