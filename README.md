@@ -21,14 +21,18 @@
   <img align="center" alt="JAVA" height="30" width="60" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Ruby" height="30" width="60" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
   <img align="center" alt="Postman" height="30" width="60" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> 
-  <img align="center" alt="GitHub" height="30" width="60" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img align="center" alt="Git" height="30" width="60" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">   
   <img align="center" alt="GitLab" height="30" width="60" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"> 
   <img align="center" alt="Cypress" height="30" width="60" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
   <img align="center" alt="JIRA" height="30" width="60" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"> 
    <img align="center" alt="Selenium" height="30" width="60" 
   src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<!--   <img align="center" alt="Android" height="30" width="60"  
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>    -->
+   <img align="center" alt="Postgres" height="30" width="60" 
+  src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+   <img align="center" alt="Azure" height="30" width="60" 
+  src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+   <img align="center" alt="Android Studio" height="30" width="60" 
+  src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
    <img align="center" alt="ChatGPT" height="30" width="60" 
    src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">  
              
