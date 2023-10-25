@@ -4,7 +4,7 @@
 - 🌱 Possuo conhecimentos em JAVA, Javascript e Ruby, Testes de API com Postman, Testes Automatizados WEB/API com Cypress e Testes Mobile Android/IOS com Soucelabs, Cloud Smartbear BitBar, BrowserStack.
 - Procuro sempre me qualificar na área de testes de softwares #aprendizadoconstante #evolucaoconstante.
 
- Contato <a href="https://www.linkedin.com/in/cristianeisenhut/" target="_blank">
+ Contato <a href="https://www.linkedin.com/in/cristianeisenhut/" target="blank">
   <img align="center" alt="Linkedin" height="30" width="60" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <div>
   <a href="https://github.com/cristiancfe">
