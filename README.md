@@ -7,6 +7,10 @@
  Contato <a href="https://www.linkedin.com/in/cristianeisenhut/" target="blank">
   <img align="center" alt="Linkedin" height="30" width="60" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
+
+   <img align="center" alt="Linkedin" height="30" width="60" src="https://github.com/cristiancfe/cristiancfe/assets/32318124/ed3c2c3c-d52f-4a64-8488-34f5a579f908">
+
+
  <div>
   
  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=cristiancfe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&count_public=true"/>
