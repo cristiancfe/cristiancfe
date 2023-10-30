@@ -7,7 +7,7 @@
  Contato <a href="https://www.linkedin.com/in/cristianeisenhut/" target="blank">
   <img align="center" alt="Linkedin" height="30" width="60" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-Currículo para Download <a href="http://vercel.com/cristiancfe/curriculo" target="blank">
+Currículo para Download <a href="https://cristiancfe.github.io/curriculo/" target="blank">
    <img align="center" alt="Currículo" height="30" width="60" src="http://github.com/cristiancfe/cristiancfe/assets/32318124/ed3c2c3c-d52f-4a64-8488-34f5a579f908"></a>
 
  <div>
