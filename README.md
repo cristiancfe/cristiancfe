@@ -6,7 +6,9 @@
 
  Contato <a href="https://www.linkedin.com/in/cristianeisenhut/" target="blank">
   <img align="center" alt="Linkedin" height="30" width="60" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- 
+  
+  <a href="https://vercel.com/cristiancfe/curriculo)" target="blank">Download do curriculo</a>
+
  
  <div>
   
