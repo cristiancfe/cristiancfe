@@ -10,7 +10,7 @@
 
  <div>
   
- <img height="140em"  src="https://github-readme-stats.vercel.app/api?username=cristiancfe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&count_public=true"/>
+ <!--<img height="140em"  src="https://github-readme-stats.vercel.app/api?username=cristiancfe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&count_public=true"/>-->
  <img height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancfe&layout=compact&langs_count=7&theme=dracula"/>
  <img width="140em" alt="IA Certificação" src="https://github.com/cristiancfe/cristiancfe/assets/32318124/91ab8a03-f12d-4c2d-aee6-f5cb05349b2b">
 
