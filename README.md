@@ -13,6 +13,8 @@
  <!--<img height="140em"  src="https://github-readme-stats.vercel.app/api?username=cristiancfe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&count_public=true"/>-->
  <img height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancfe&layout=compact&langs_count=7&theme=dracula"/>
  <img width="220em" height="140em" alt="Certificação Teste de software" src="https://github.com/cristiancfe/cristiancfe/assets/32318124/a2a50c06-251b-4381-8285-8739e81d8b86">
+<img width="200em" height="140em" alt="IA logo" src="https://github.com/cristiancfe/cristiancfe/assets/32318124/bbd0b39a-beac-43fa-87d3-fd41ef7eda39">
+
  
 
 
